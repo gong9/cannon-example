@@ -3,6 +3,7 @@
   "rules": {
     "no-console": "off",
     "no-unused-vars": "off",
-    "unused-imports/no-unused-imports": "off"
+    "unused-imports/no-unused-imports": "off",
+    "@typescript-eslint/ban-ts-comment": "off"
   }
 }
