@@ -1,0 +1,25 @@
+{
+  "name": "example-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@anov/3d-core": "^0.0.13",
+    "cannon-es": "^0.20.0",
+    "cannon-es-debugger": "^1.0.0",
+    "parcel": "^2.9.3",
+    "three-to-cannon": "^5.0.1"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.38.5",
+    "buffer": "^5.5.0||^6.0.0",
+    "eslint": "^8.23.0"
+  }
+}
