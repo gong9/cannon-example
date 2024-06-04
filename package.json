@@ -14,14 +14,15 @@
     "@anov/3d-core": "^0.0.13",
     "cannon-es": "^0.20.0",
     "cannon-es-debugger": "^1.0.0",
+    "hotkeys-js": "^3.13.7",
     "three-to-cannon": "^5.0.1"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.38.5",
+    "@parcel/config-default": "^2.9.3",
     "buffer": "^5.5.0||^6.0.0",
     "eslint": "^8.23.0",
     "parcel": "^2.9.3",
-    "@parcel/config-default": "^2.9.3",
     "parcel-reporter-static-files-copy": "^1.5.2"
   }
 }
