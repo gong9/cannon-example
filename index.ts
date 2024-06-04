@@ -145,4 +145,4 @@
 //   }
 // })
 
-import './example/test01'
+import './example/test02'
