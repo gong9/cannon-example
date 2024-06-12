@@ -4,7 +4,7 @@ import CannonDebugger from 'cannon-es-debugger'
 import { ShapeType, threeToCannon } from 'three-to-cannon'
 
 /**
- *@file 复杂glb的优化
+ *@file 关于刚体高级shape的包围盒子优化
  */
 
 const load = new ModelLoader()

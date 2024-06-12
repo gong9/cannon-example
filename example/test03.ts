@@ -3,7 +3,7 @@ import { Clock, Color, Mesh, MeshBasicMaterial, ModelLoader, PlaneGeometry, Scen
 import CannonDebugger from 'cannon-es-debugger'
 
 /**
- *@file 高级shape
+ *@file 关于刚体高级shape
  */
 
 const load = new ModelLoader()

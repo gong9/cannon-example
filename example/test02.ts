@@ -1,6 +1,10 @@
 import { Body, ContactMaterial, Material, Plane, Sphere, Vec3, World } from 'cannon-es'
 import { Clock, Color, Mesh, MeshBasicMaterial, PlaneGeometry, SceneControl as Scene, SphereGeometry, Vector3, use } from '@anov/3d-core'
 
+/**
+ * @file 关于定义刚体之间的材质
+ */
+
 const scene = new Scene({
   orbitControls: {
     use: true,
